@@ -11,3 +11,7 @@ Tech Stack: Azure Data Factory, Azure Databricks, Azure Data Lake Storage Gen2, 
 4.Configured secure service‑to‑service connections (Service Principal + Managed Identity) between Databricks and ADLS Gen2, ensuring enterprise‑grade access control.
 
 5.Collaborated with cross‑functional teams to validate data quality and establish cost‑optimized storage tiers (Hot, Cool, Archive), achieving a 30% reduction in storage costs.
+
+#Azure DataFactory Pipeline
+![image](https://github.com/user-attachments/assets/8c9e88a8-5b0d-4e35-91ab-fd01dd4e8340)
+
