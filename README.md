@@ -12,6 +12,10 @@ Tech Stack: Azure Data Factory, Azure Databricks, Azure Data Lake Storage Gen2, 
 
 5.Collaborated with cross‑functional teams to validate data quality and establish cost‑optimized storage tiers (Hot, Cool, Archive), achieving a 30% reduction in storage costs.
 
+#Architectural Diagram
+![image](https://github.com/user-attachments/assets/6d8fbf40-6e23-4b70-a7b7-3672e0d93df8)
+
+
 #Azure DataFactory Pipeline
 ![image](https://github.com/user-attachments/assets/8c9e88a8-5b0d-4e35-91ab-fd01dd4e8340)
 
